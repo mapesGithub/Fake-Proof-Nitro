@@ -19,9 +19,7 @@ Ouvrir le fichier "config.json"
 ***
 **Installation :**
 
-- Il suffit d'extraire le fichier "node_modules" 
-
-![](https://cdn.discordapp.com/attachments/1105881401309532391/1130598631397929081/image.png)
+- Ouvrir le cmd puis faire "npm i"
 
 - Ensuite lancer le fichier "run.bat"
 
