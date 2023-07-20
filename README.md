@@ -1,4 +1,4 @@
-# Made by database. 👋
+# Made by mapes 👋
 
 *Voici un script pour avoir des Fake Proof Nitro !*
 
